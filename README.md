@@ -47,6 +47,57 @@ As development progresses, the folder structure will evolve into a scalable layo
 
 ---
 
+## 🎨 UI/UX Design Planning
+
+Designing an intuitive and consistent user interface is a top priority for this project. The goal is to create a clean, seamless user experience that mimics the ease-of-use and polish of the real Airbnb platform.
+
+---
+
+### 🧩 UI Component Patterns
+
+To ensure consistency and reusability throughout the application, the following core UI components will be developed:
+
+| Component      | Key Features                                                                 |
+|----------------|-------------------------------------------------------------------------------|
+| **Navbar**     | Includes a logo, responsive search bar, user navigation icons, and menu toggle. |
+| **Property Card** | Displays an image, property details (price, location, rating), and a favorite (heart) button in a grid layout. |
+| **Footer**     | Includes essential links, company info, social icons, and copyright notice. |
+
+Each component will be styled using **Tailwind CSS**, and built as modular, responsive units to promote reusability and visual consistency across all views.
+
+---
+
+### 📄 Core Pages Overview
+
+| Page                    | Description                                                                                   |
+|-------------------------|-----------------------------------------------------------------------------------------------|
+| **Property Listing View**   | A homepage or search results grid showcasing available properties with filters and sorting options. |
+| **Listing Detailed View**   | A single property page displaying images, descriptions, amenities, reviews, booking button, etc.     |
+| **Simple Checkout View**    | A minimal booking page with selected dates, pricing breakdown, user info form, and payment summary.  |
+
+These pages represent the core user journey — from browsing listings to booking a stay — and will be developed with clear user flows and visual hierarchy.
+
+---
+
+### 💡 UX Design Philosophy
+
+In a booking platform, **user experience is critical**. Users need to:
+
+- Find relevant properties quickly and easily.
+- Understand pricing and property details at a glance.
+- Navigate the platform on both desktop and mobile without friction.
+- Trust the design through visual consistency and smooth interaction patterns.
+
+The goal is to make the UI **invisible** — reducing cognitive load so the user can focus on their goal: booking a place to stay.
+
+> A great UI doesn't just look good — it feels intuitive, anticipates user needs, and creates confidence through every interaction.
+
+---
+
+As development progresses, this section will be updated with Figma wireframes, interaction flows, and usability considerations.
+
+
+
 ## 🚧 Current Status
 
 The project has been initialized and is ready for development:
