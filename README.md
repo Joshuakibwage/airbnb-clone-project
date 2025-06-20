@@ -113,6 +113,51 @@ Stay tuned for regular updates and live previews!
 
 ---
 
+### 🎨 Design Tokens & Style Guide
+
+A clear and consistent visual style is crucial for building a unified user interface. Below are the foundational design properties that will guide the aesthetic and feel of the Airbnb Clone.
+
+---
+
+#### 🎨 Color Styles
+
+| Purpose           | Hex Code   | Usage Example                                             |
+|-------------------|------------|------------------------------------------------------------|
+| **Primary**       | `#FF5A5F`  | Used for call-to-action buttons, highlights, and accents. |
+| **Secondary**     | `#008489`  | Used for support buttons, links, and hover states.        |
+| **Background**    | `#FFFFFF`  | Primary background color for content areas and cards.     |
+| **Text**          | `#222222`  | Main text color for high readability.                     |
+| **Secondary Text**| `#717171`  | Used for supporting text, descriptions, and placeholders. |
+
+---
+
+#### ✍️ Typography
+
+| Element            | Font             | Weight    | Size        | Usage                                        |
+|--------------------|------------------|-----------|-------------|----------------------------------------------|
+| **Primary Font**   | Circular         | Medium    | 16px        | Body text and UI labels                      |
+| **Headings**       | Circular         | Bold      | 24px–32px   | Section titles and major UI headers          |
+| **Secondary Text** | Circular         | Book      | 14px        | Captions, hints, and supporting content      |
+
+*Note: System fallbacks will be used for browsers that don’t support Circular.*
+
+---
+
+### 🧠 Why Design Properties Matter
+
+Identifying and documenting core design properties early in the process is essential for several reasons:
+
+1. **Visual Consistency:** A consistent use of color, typography, and spacing creates a cohesive brand experience and improves user trust.
+2. **Faster Development:** Defined design tokens allow developers to implement styles quickly and accurately, reducing guesswork.
+3. **Scalability:** As the app grows, having a design foundation ensures that new components and features remain visually aligned.
+4. **Collaboration:** Clear design standards bridge the gap between designers and developers, making handoffs smoother and reducing miscommunication.
+5. **Accessibility:** Thoughtful choices in color contrast and font sizing improve usability for all users, including those with visual impairments.
+
+By treating the design as a system, rather than one-off visuals, we’re building a more maintainable and user-friendly product from the ground up.
+
+
+---
+
 ## 🤝 Contributing
 
 This is a personal learning project, but collaboration is always welcome!
