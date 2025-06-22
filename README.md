@@ -160,7 +160,7 @@ By treating the design as a system, rather than one-off visuals, we’re buildin
 
 ## 🤝 Contributing
 
-This is a personal learning project, but collaboration is always welcome!
+This is a learning project, but collaboration is always welcome!
 
 If you're also building something similar or have suggestions on improving this clone:
 
@@ -168,6 +168,64 @@ If you're also building something similar or have suggestions on improving this 
 - Fork the repo
 - Create a pull request
 - Or just reach out for a conversation!
+
+---
+
+## 👤 Project Roles and Responsibilities
+
+This Airbnb Clone is a learning project led by **Joshua Kibwage**, designed to simulate the collaborative structure of a real-world development team. While no team members are currently assigned, this section outlines the roles typically involved in such a project and reflects the responsibilities being undertaken individually.
+
+---
+
+### 🧑‍💼 Project Manager — *Joshua Kibwage*
+**Responsibilities:**
+- Define project scope, features, and timeline
+- Plan and manage milestones
+- Track personal progress and organize workflows using tools like GitHub Projects or Notion
+
+---
+
+### 💻 Frontend Developer — *Joshua Kibwage*
+**Responsibilities:**
+- Build the user interface using React.js and Tailwind CSS
+- Develop reusable UI components
+- Ensure responsiveness and accessibility
+- Connect frontend components to backend services or mock data
+
+---
+
+### 🎨 UI/UX Designer — *Joshua Kibwage*
+**Responsibilities:**
+- Design user flows, wireframes, and layouts
+- Define visual design system (typography, color, spacing)
+- Ensure consistency and usability across the app
+
+---
+
+### 🧪 QA Tester — *Joshua Kibwage*
+**Responsibilities:**
+- Test app functionality manually during development
+- Check for UI responsiveness and cross-browser compatibility
+- Log and resolve bugs discovered during testing
+
+---
+
+### 🧭 Product Owner — *Joshua Kibwage*
+**Responsibilities:**
+- Set the vision and purpose of the clone
+- Prioritize features based on MVP goals
+- Review and evaluate progress with an end-user mindset
+
+---
+
+### (Optional Roles – Future Expansion)
+
+These roles may be considered if the project evolves into a team collaboration or gains backend/API support:
+
+- **Backend Developer**
+- **DevOps Engineer**
+- **Scrum Master**
+
 
 ---
 
