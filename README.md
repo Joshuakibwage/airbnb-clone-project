@@ -229,6 +229,46 @@ These roles may be considered if the project evolves into a team collaboration o
 
 ---
 
+## 🧱 UI Component Patterns
+
+To build a scalable and maintainable interface for the Airbnb Clone project, the application will be broken down into small, reusable UI components. Each component will be designed with **responsiveness**, **accessibility**, and **visual consistency** in mind.
+
+---
+
+### 🔧 Planned Components
+
+#### 1. **Navbar**
+A responsive top navigation bar that will appear across all pages. It will include:
+- **Logo**: Redirects to the homepage.
+- **Search Bar**: Allows users to input destination, dates, and guest count.
+- **User Navigation**: Icons or dropdown for login, user profile, and settings.
+- **Responsive Menu**: Hamburger menu for mobile devices.
+
+#### 2. **Property Card**
+This will be the core display unit in the property listing grid. It includes:
+- **Property Image**: A featured image with hover effect.
+- **Basic Details**: Name, price per night, location, and user rating.
+- **Favorite Button**: Allows users to "like" or save a property.
+- **Mobile-Friendly Layout**: Optimized for display on all screen sizes.
+
+#### 3. **Footer**
+The footer provides useful links and legal information. It includes:
+- **Site Links**: About, Careers, Help Center, etc.
+- **Company Information**: Branding or mission statements.
+- **Social Media Links**: Icons linking to platforms like Twitter, Facebook, Instagram.
+- **Copyright Information**: Auto-updated copyright.
+
+---
+
+### ⚙️ Component Principles
+
+All components will be:
+- **Reusable** across different pages and contexts
+- **Composable** to work together in various layouts
+- **Responsive** using Tailwind’s mobile-first utility classes
+- **Accessible** with proper semantic HTML and ARIA attributes
+
+
 ## 📬 Let’s Connect
 
 If you’re on a similar learning journey or just curious about the process, feel free to connect or follow my progress:
